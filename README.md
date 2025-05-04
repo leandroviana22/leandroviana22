@@ -8,7 +8,7 @@ Eu sou o Leandro Viana, sou um programador Front End, atualmente estou aprendend
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo">
 <br>
 <br>
-E iniciando o aprendizado de JavaScript.
+<p> E iniciando o aprendizado de JavaScript. </p>
 <br>
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroviana22)](https://github.com/anuraghazra/github-readme-stats)
